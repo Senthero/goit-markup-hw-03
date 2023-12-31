@@ -280,6 +280,10 @@ img {
     padding: 120px 0;
 }
 
+.container-box {
+    border-top: none;
+}
+
 .portfolio {
     color: #2E2F42;
     text-align: center;
