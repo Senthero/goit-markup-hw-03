@@ -280,10 +280,6 @@ img {
     padding: 120px 0;
 }
 
-.container-box {
-    border-top: none;
-}
-
 .portfolio {
     color: #2E2F42;
     text-align: center;
@@ -308,8 +304,8 @@ img {
 
 .portfolio-item-box {
     padding: 32px 16px;
-    border-top: none;
     border: 1px solid #e7e9fc;
+    border-top: none;
 }
 
 .portfolio-title-name {
