@@ -87,7 +87,12 @@ img {
 }
 
 .header-nav-list {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     display: flex;
+    align-items: center;
     gap: 40px;
 }
 
@@ -342,7 +347,6 @@ img {
         letter-spacing: 0.03em;
         text-transform: uppercase;
         display: inline-block;
-        margin-bottom: 16px;
 }
 
 .footer-logo-blue {
@@ -354,7 +358,6 @@ img {
         letter-spacing: 0.03em;
         text-transform: uppercase;
         display: inline-block;
-        margin-bottom: 16px;
 }
 
 .footer-description {
